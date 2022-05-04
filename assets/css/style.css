@@ -180,7 +180,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;  /* bang 50% cua chieu rong*/
-    background: url('/FullStackF8/TheBand/assets/img/silder/la.jpg') top center/cover no-repeat;
+    background:url(../img/silder/la.jpg) top center/cover no-repeat;
     /*  moc de di chuyen text */
     position: relative;
 }
